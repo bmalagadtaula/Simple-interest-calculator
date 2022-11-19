@@ -1,4 +1,4 @@
-![SI-Calculator](https://user-images.githubusercontent.com/51883592/202842898-a49f6ec4-8660-4b11-b2a8-5b88fa8b92e1.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
